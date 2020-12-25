@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mpp-client": "^0.4.3483807882806744"
+  }
+}
